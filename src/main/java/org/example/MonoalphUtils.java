@@ -3,7 +3,7 @@ package org.example;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class CryptUtils {
+public class MonoalphUtils {
     private static final List<Character> rusAlph = Arrays.asList('А','Б','В','Г','Д','Е','Ё','Ж','З','И','Й','К','Л','М','Н','О','П','Р','С','Т','У','Ф','Х'
             ,'Ц','Ч','Ш','Щ','Ъ','Ы','Ь','Э','Ю','Я');
     private static final List<Character> engAlph=Arrays.asList('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T'
